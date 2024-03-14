@@ -1,0 +1,6 @@
+@Permission_APi_HostAddress = http://localhost:5230
+
+GET {{Permission_APi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
